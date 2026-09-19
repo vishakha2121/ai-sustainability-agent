@@ -24937,6 +24937,7 @@ You are a sustainability consultant. Based on the following company data:
 - Monthly CO₂e: {emissions} kg
 - ESG Score: {esg_score}
 
+<p al
 Suggest 5 actionable sustainability initiatives with priority ranking.
 📸 Screenshots
 Screenshots will be added after the first full run.
@@ -25035,5 +25036,4 @@ Open-source sustainability datasets & emission factor references
 
 ⭐ Show Your Support
 If you liked this project, please give it a ⭐ on GitHub — it motivates me to build more!
-
-<p align="center">Made with 💚 for a sustainable future 🌍</p> ```
+ign="center">Made with 💚 for a sustainable future 🌍</p> ```
