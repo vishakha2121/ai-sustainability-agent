@@ -64797,20 +64797,3 @@ node_modules
 /build
 /dist
 /dist-ssr
-*.local
-
-# Vite cache
-.vite/
-.vite
-
-# Next.js
-.next/
-out/
-
-# Gatsby
-.cache/
-
-# Parcel
-.cache
-.parcel-cache
-
